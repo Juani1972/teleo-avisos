@@ -1,0 +1,19 @@
+# Libros retirados de Te Leo
+#
+# La app descarga este archivo y oculta estos libros de las búsquedas
+# (y no deja descargarlos). Los cambios llegan a los usuarios en menos
+# de una hora, sin publicar una versión nueva de la app.
+#
+# Una regla por línea (sin distinguir mayúsculas ni tildes):
+#
+#   https://www.gutenberg.org/ebooks/12345   <- un libro: su página en la biblioteca
+#   autor: Nombre Apellido                   <- todas las obras de un autor
+#   titulo: Título del libro                 <- los libros con ese título
+#
+# Las líneas que empiezan por # son comentarios. Apunta la fecha y el
+# motivo de cada retirada encima de la regla, por ejemplo:
+#
+#   # 2026-11-20 · Reclamación de Editorial X por correo
+#   https://www.gutenberg.org/ebooks/12345
+#
+# ---- Libros retirados (debajo de esta línea) ----
