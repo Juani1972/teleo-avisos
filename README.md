@@ -7,5 +7,3 @@ en bibliotecas públicas.
 
 Te Leo no aloja ni distribuye libros: solo busca obras de dominio público
 en bibliotecas públicas y las descarga directamente de ellas.
-
-Para avisar de un libro, escribe a joe886529@gmail.com.
